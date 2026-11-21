@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+ENV/
+
+# Database (optional if sharing demo db, but good practice to keep local)
+# smartq.db
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
